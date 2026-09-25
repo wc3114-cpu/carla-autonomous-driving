@@ -45,3 +45,19 @@ Completed:
 ## Next Step
 
 Week 2 will focus on YOLOv8 object detection and semantic segmentation.
+
+---
+
+## Week 1 Deliverables
+
+- [开发环境搭建文档](docs/week1_environment_setup.md)
+- [智能驾驶技术分析笔记](docs/intelligent_driving_notes.md)
+- [第一周实验报告](reports/week1_report.md)
+- [CARLA 30 秒演示视频](media/week1_carla_demo.mp4)
+
+### Screenshots
+
+- [CARLA Simulator](media/screenshots/01_carla_simulator.png)
+- [Official generate_traffic.py Example](media/screenshots/02_generate_traffic.png)
+- [Official manual_control.py Example](media/screenshots/03_manual_control.png)
+- [CARLA Python API Connection](media/screenshots/04_python_connection.png)
