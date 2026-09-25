@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+*.pyc
+
+data/rgb/
+data/week1_1000/images/
+data/week1_1000/labels_yolo/
+data/week1_1000/labels_kitti/
+
+*.zip
+*.tar
+*.tar.gz
